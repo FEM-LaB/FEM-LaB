@@ -3,8 +3,7 @@
  Keywords: (1) Nanoscale thermal transport, (2) Phonon hydrodynamics; (3) Electron-Phonon coupling, Emerging nanoelectronics, 2D materials.
 - 💞️ I’m looking to collaborate on open-source projects including first-principles Calculation of phonons and electrons properties in 2D materials. 
 - 📫 How to reach me ... houssemrezgui30@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 FEM-LaB/FEM-LaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
